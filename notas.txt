@@ -1,0 +1,13 @@
+1. Arquivo principal do HTML (HiperText Markup Languge): index.html
+
+2. No VSCode pode usar o atalho "!" para criar a estrutura básica de um arquivo HTML
+
+3. Tags semânticas: header, main, footer
+
+4. Arquivo principal do CSS (Cascading Style Sheets): style.css
+
+5. Combinações de cores
+Roda de cores Adobe: https://color.adobe.com/pt/create/color-wheel
+Colors: https://coolors.co/
+Color Hunt: https://colorhunt.co/
+Color Tool: https://m3.material.io/styles/color/overview
