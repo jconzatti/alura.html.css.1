@@ -11,3 +11,10 @@ Roda de cores Adobe: https://color.adobe.com/pt/create/color-wheel
 Colors: https://coolors.co/
 Color Hunt: https://colorhunt.co/
 Color Tool: https://m3.material.io/styles/color/overview
+
+6. Box Model: margin, border, padding
+
+7. Flexbox: posicionamento de elementos
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+8. Fontes: https://fonts.google.com/
