@@ -18,3 +18,9 @@ Color Tool: https://m3.material.io/styles/color/overview
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
 8. Fontes: https://fonts.google.com/
+
+9. Variáveis no escopo global do CSS
+Usar a pseudo classe :root
+Declarar as variáveis
+Padrão de nomenclatura é --nome-da-variavel (O duplo hífen prefixado é obrigatório)
+Ela poderá ser usada em todo o documento HTML
